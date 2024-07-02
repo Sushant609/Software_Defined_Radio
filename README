@@ -1,0 +1,15 @@
+# SDR Transmitter Project
+
+## Overview
+
+This repository contains the final project report for the Software-Defined Radio (SDR) project. The project focuses on the development and implementation of an SDR transmitter, providing a detailed analysis of the design, methodology, results, and conclusions.
+
+## Project Report
+
+The project report, `SDR transmitter.pdf`, includes the following sections:
+- **Introduction**: An overview of the project objectives and the significance of SDR technology.
+- **Literature Review**: A review of existing work and technologies related to SDR.
+- **Design and Methodology**: Detailed descriptions of the design process, hardware and software used, and implementation steps.
+- **Results**: Analysis and discussion of the results obtained from the SDR transmitter.
+- **Conclusion**: Summary of the findings and potential future work.
+
